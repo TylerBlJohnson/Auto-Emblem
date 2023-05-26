@@ -1,0 +1,13 @@
+break up scenecontroller a bit
+
+storage?
+
+Bonus EXP tokens
+
+refine it all
+
+weapons or something idk
+
+crit sound (and animation?) when the follow-up attack deals more damage than the first attack
+
+titles (crawfather: necro-culinary abomination)
