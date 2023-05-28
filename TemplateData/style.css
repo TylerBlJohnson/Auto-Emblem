@@ -10,7 +10,7 @@ body {
 	width: 100%;
 	position: absolute;
 	background-image: url("little man.png");
-	background-position: right 30px bottom;
+	background-position: right 31px bottom;
 	background-attachment: fixed;
 	background-size: 100px;
 	background-repeat: no-repeat;
