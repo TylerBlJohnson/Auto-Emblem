@@ -29,7 +29,7 @@ body {
 	transform: translate(-50%); 
 	background: white; 
 	padding: 10px; 
-	display: none !important;
+	display: none;
 }
 #unity-version-number { float: right; margin-right: 10px; line-height: 38px; font-family: arial; font-size: 18px }
 #unity-container.unity-desktop { left: 50%; top: 50%; transform: translate(-50%, -50%) }
