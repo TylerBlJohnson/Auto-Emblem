@@ -50,6 +50,8 @@ public class MoveDuringCombat : MonoBehaviour
         if (!isHidden)
         {
             isHidden = true;
+            startLoc = gameObject.transform.position;
+            hideLoc = startLoc + moveBy;
             iTween.MoveTo(gameObject, hideLoc, 1.0f);
         }
         else
